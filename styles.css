@@ -205,5 +205,9 @@ a.social:hover {
     
   }
 
+  img{
+  border-radius: 10px;
+  }
+  
 }
 
